@@ -1,0 +1,1 @@
+# Cad3.0_Qt_version
